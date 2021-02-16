@@ -1,0 +1,26 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "All about Wenzhu Chen's info, including education, skills, projects, publications and contact information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CS",
+    "SDE",
+    "Python",
+    "Java",
+    "HTML5",
+    "CSS",
+    "Bootstrap"
+  ],
+  "author": "Wenzhu Chen",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-react": "^7.22.0",
+    "prettier": "2.2.1"
+  }
+}
