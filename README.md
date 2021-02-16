@@ -12,12 +12,11 @@
 
 ## 2. Website At a Glance
 ### Home page
-![Image](https://user-images.githubusercontent.com/51281099/108012294-dcde7280-6fbd-11eb-8a96-6685b6a80187.png)
-<div align=center><img width="300px" src="https://user-images.githubusercontent.com/51281099/108012294-dcde7280-6fbd-11eb-8a96-6685b6a80187.png"/></div>
+<div align=center><img width="700px" src="https://user-images.githubusercontent.com/51281099/108012294-dcde7280-6fbd-11eb-8a96-6685b6a80187.png"/></div>
 ### Project page
-![Image](https://user-images.githubusercontent.com/51281099/108012680-d7cdf300-6fbe-11eb-8a19-91c0a0a7c450.png)
+<div align=center><img width="700px" src="https://user-images.githubusercontent.com/51281099/108012680-d7cdf300-6fbe-11eb-8a19-91c0a0a7c450.png"/></div>
 ### Publications page
-![Image](https://user-images.githubusercontent.com/51281099/108012680-d7cdf300-6fbe-11eb-8a19-91c0a0a7c450.png)
+<div align=center><img width="700px" src="https://user-images.githubusercontent.com/51281099/108015167-714bd380-6fc4-11eb-874f-fb4891e55355.png"/></div>
 
 ## 3.Technologies
 
