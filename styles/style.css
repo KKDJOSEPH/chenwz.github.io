@@ -236,11 +236,11 @@ footer {
 }
 
 #bg-container #bg0 {
-  background-image: url("../images/bg1.jpg");
+  background-image: url("/../images/bg1.jpg");
 }
 
 #bg-container #bg1 {
-  background-image: url("../images/bg2.jpg");
+  background-image: url("/../images/bg2.jpg");
 }
 
 #bg-container #bg2 {
