@@ -13,8 +13,8 @@
 - Project Objective: Develop an personal website using HTML5, CSS, Bootstrap and Javascript.
 - Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
 - Professor: John Alexis Guerra Gómez
-- Video Demo:
-- Slides:
+- Video Demo: https://youtu.be/KaUHjggf6tM 
+- Slides:https://docs.google.com/presentation/d/1WcR6kX96b8wsSguoKnqWvus6j-_Th0mQQNSzeVol3dA/edit?usp=sharing
 
 ## 2. Website At a Glance
 <div align=center><img width="500px" src="https://user-images.githubusercontent.com/51281099/108012294-dcde7280-6fbd-11eb-8a96-6685b6a80187.png"/></div>
