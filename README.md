@@ -26,7 +26,7 @@
 - Bootstrap
 - ESLint
 
-## . Setup instructions
+## 4. Setup instructions
 - clone this repo
 - install NodeJS, Python, Eslint 
 - run local server by `python -m http.server 8080` or `reload -b`, or
