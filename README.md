@@ -27,10 +27,10 @@
 - ESLint
 
 ## 4. Setup instructions
-- clone this repo
-- install NodeJS, Python, Eslint 
-- run local server by `python -m http.server 8080` or `reload -b`, or
-- visit the website through the URL it provide(such as: http://localhost:8080/)
+- Clone this repo
+- Install NodeJS, Python, Eslint 
+- Run local web server by `python -m http.server 8080` (the port can be defined by you own)or `reload -b`
+- Visit the website through the URL it provide (such as: http://localhost:8080/)
  <br/>(For more detail, see https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server )
 
 
